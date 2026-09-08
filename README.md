@@ -6,6 +6,8 @@ This project explores and analyzes Goodreads book review data to identify patter
 
 This project serves as my introduction to NLTK and various sentiment analysis techniques, allowing me to explore and apply different NLP and sentiment analysis functions to real-world review data.
 
+This project is based on a [YouTube](https://www.youtube.com/watch?v=QpzMWQvxXWk&t=203s) video. However, I adapted it to use Goodreads book reviews instead of the original dataset. Since the two datasets have different structures and content, I made significant changes to the data cleaning and preprocessing steps.
+
 ## Dataset
 
 The datasets used in this analysis came from [Goodreads Book Graph Datasets](https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html) under the romance genre category. There are two datasets: a book dataset and a reviews dataset.
