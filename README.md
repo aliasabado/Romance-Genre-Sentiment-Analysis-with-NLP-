@@ -37,6 +37,6 @@ VADER was used to calculate sentiment scores for reviews and classify them into 
 
 ### RoBERTa
 
-A pretrained RoBERTa-based sentiment model was used to provide a second sentiment classification approach.
+A pretrained RoBERTa-based sentiment model was used as a second approach to sentiment classification. Due to the size of the dataset, I sampled 500 reviews and used the RoBERTa model to classify their sentiment.
 
 The results from both approaches were compared to examine differences in sentiment classification.
