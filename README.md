@@ -17,6 +17,8 @@ Important columns include:
 - Review ID
 - Rating
 
+The datasets have been excluded from this GitHub repository due to their large file sizes.
+
 ## Workflow
 
 ### Data Cleaning
